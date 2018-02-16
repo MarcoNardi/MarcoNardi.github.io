@@ -1,0 +1,53 @@
+body{
+	background-color: #5bc0de;
+}
+section{
+	margin:30px 35px 0px 35px;
+	
+}
+well{
+	
+}
+#sabig{
+	max-width: 700px;
+	width:auto;
+	height:auto;
+	
+	
+}
+#dra{
+	max-width: 400px;
+	width:auto;
+	height:auto;
+}
+#lba-s{
+	width:auto;
+	height:auto;
+	max-width:400px;
+	max-height:10%;
+}
+#caption-text{
+	text-align: center;
+}
+#titolo{
+	text-align: center;
+}
+#biografia{
+	font-size: 20px;
+
+}
+#biografia li{
+	margin-top:12px;
+	
+}
+.descrizioni{
+	font-size: 20px;
+	margin-top:12px;
+}
+.immagini-pittura{
+	width:auto;
+	height:auto;
+	max-width:150px;
+	max-height:150px;
+	
+}
