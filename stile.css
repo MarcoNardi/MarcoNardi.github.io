@@ -1,5 +1,5 @@
 body{
-	background-color: #5bc0de;
+	background-color:#428bca;
 }
 section{
 	margin:30px 35px 0px 35px;
@@ -7,6 +7,34 @@ section{
 }
 well{
 	
+}
+#mmed{
+	max-width: 800px;
+	height:auto;
+	width:100%;
+}
+#mprog{
+	max-width: 800px;
+	height:auto;
+	width:100%;
+	
+}
+#mfac{
+	
+	max-width: 800px;
+	height:auto;
+	width:100%;
+	
+}
+#mlat{
+	max-width: 200px;
+	height:auto;
+	width:100%;
+}
+#mpar{
+	height:auto;
+	width:100%;
+	max-width: 200px;
 }
 #sabig{
 	max-width: 700px;
