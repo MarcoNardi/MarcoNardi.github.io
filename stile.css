@@ -68,6 +68,11 @@ well{
 	margin-top:12px;
 	
 }
+#af{
+	max-width: 700px;
+	width:100%;
+	height:auto;
+}
 .descrizioni{
 	font-size: 20px;
 	margin-top:12px;
