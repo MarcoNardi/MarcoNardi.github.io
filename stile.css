@@ -1,24 +1,25 @@
 body{
 	background-color:#428bca;
 }
+
 section{
 	margin:30px 35px 0px 35px;
 	
 }
-well{
-	
-}
+
 #mmed{
 	max-width: 800px;
 	height:auto;
 	width:100%;
 }
+
 #mprog{
 	max-width: 800px;
 	height:auto;
 	width:100%;
 	
 }
+
 #mfac{
 	
 	max-width: 800px;
@@ -26,16 +27,19 @@ well{
 	width:100%;
 	
 }
+
 #mlat{
 	max-width: 200px;
 	height:auto;
 	width:100%;
 }
+
 #mpar{
 	height:auto;
 	width:100%;
 	max-width: 200px;
 }
+
 #sabig{
 	max-width: 700px;
 	width:100%;
@@ -43,40 +47,48 @@ well{
 	
 	
 }
+
 #dra{
 	max-width: 400px;
 	width:100%;
 	height:auto;
 }
+
 #lba-s{
 	width:100%;
 	height:auto;
 	max-width:400px;
 	max-height:10%;
 }
+
 #caption-text{
 	text-align: center;
 }
+
 #titolo{
 	text-align: center;
 }
+
 #biografia{
 	font-size: 20px;
-
 }
+
 #biografia li{
 	margin-top:12px;
 	
 }
+
 #af{
 	max-width: 700px;
 	width:100%;
 	height:auto;
 }
+
 .descrizioni{
 	font-size: 20px;
 	margin-top:12px;
 }
+
 .immagini-pittura{
 	width:auto;
 	height:auto;
@@ -84,6 +96,7 @@ well{
 	max-height:150px;
 	
 }
+
 img{
 	overflow:auto;
 }
